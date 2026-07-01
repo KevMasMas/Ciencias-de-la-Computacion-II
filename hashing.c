@@ -46,14 +46,20 @@ void printTable(){
 int main(){
     init();
     insert(234);
-    insert(543);
     insert(2);
+    int key = 2;
+    printf("Search fot %d is: %d", key, search(key));
+    printTable();
+/*
+    insert(543);
+
     insert(456);
     insert(123);
     insert(876);
     insert(1);
-    printTable();
-    int key = 2;
-    printf("Search fot %d is: %d", key, search(key));
+
+
+
     return 0;
+*/
 }

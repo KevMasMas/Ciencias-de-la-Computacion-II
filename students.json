@@ -1,0 +1,22 @@
+[
+    {
+        "Codigo": 1101,
+        "Nombre": "Pepita",
+        "Carrera": "Ingenieria de Sistemas"
+    },
+    {
+        "Codigo": 1001,
+        "Nombre": "Pepito",
+        "Carrera": "Ingenieria industrial"
+    },
+    {
+        "Codigo": 1701,
+        "Nombre": "Juanita",
+        "Carrera": "Ingenieria Electronica"
+    },
+    {
+        "Codigo": 1301,
+        "Nombre": "Juanito",
+        "Carrera": "Ingenieria Forestal"
+    }
+]
